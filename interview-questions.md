@@ -40,7 +40,7 @@ end
 
 Your answer: I completely drew a blank on this, so I will go straight into the research to help re-spark my memory. 
 
-Researched answer:  The RESTful routes that must have a param passed as well are: Show, New, Create, Update, and Delete. This is because when each of these controller methods is called into action to perform tasks such as manipulation, structuring, or destruction of specific pieces of data.
+Researched answer:  The RESTful routes that must have a param passed as well are: Show, New, Create, Update, and Delete. This is because when each of these controller methods is called into action to perform tasks such as manipulating, structuring, displaying or destructing specific pieces of data.
 
 
 3. Name three rails generator commands. What is created by each?

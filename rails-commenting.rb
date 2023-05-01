@@ -7,7 +7,7 @@
 # FILE: app/controller/blog_posts_controller.rb
 
 # ---1)
-# This is controller used to define what will happend with a method is reached. 
+# This is controller used to define what will happend when a method is reached. 
 
 class BlogPostsController < ApplicationController
   def index
